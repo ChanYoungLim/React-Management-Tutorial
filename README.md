@@ -1,3 +1,6 @@
+## Management System
+본 프로젝트는 임찬영의 React 연습목적으로 만들어졌습니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
